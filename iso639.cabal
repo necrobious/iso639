@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                iso639
-version:             0.1.0.0
+version:             0.1.1.0
 synopsis:            ISO639 Data Types
 -- description:         
 homepage:            https://github.com/necrobious/iso639
